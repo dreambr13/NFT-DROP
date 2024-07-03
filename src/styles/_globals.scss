@@ -1,0 +1,134 @@
+html,
+body {
+    background-color: black;
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-family: NeuePlak, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
+        Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.neueplak_condensed {
+    font-family: 'NeuePlakCondensed' !important;
+}
+
+@font-face {
+    font-family: 'NeuePlak';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('/fonts/NeuePlak/Monotype  - Neue Plak Text Thin.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlak';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/fonts/NeuePlak/Monotype  - Neue Plak Text Light.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlak';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('/fonts/NeuePlak/Monotype  - Neue Plak Text Regular.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlak';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('/fonts/NeuePlak/Monotype  - Neue Plak Text SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlak';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('/fonts/NeuePlak/Monotype  - Neue Plak Text Bold.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlak';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('/fonts/NeuePlak/Monotype  - Neue Plak Text Black.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed UltraLight.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed Thin.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed Light.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed Regular.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed Bold.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed Black.ttf');
+}
+
+@font-face {
+    font-family: 'NeuePlakCondensed';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('/fonts/NeuePlakCondensed/Monotype  - Neue Plak Condensed ExtraBlack.ttf');
+}

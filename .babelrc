@@ -1,0 +1,18 @@
+{
+    "presets": ["next/babel"],
+    "plugins": [
+        "inline-react-svg",
+        [
+            "@simbathesailor/babel-plugin-use-what-changed",
+            {
+                "active": true // boolean
+            }
+        ]
+    ],
+    "pwa": {
+        "dest": "public",
+        "runtimeCaching": [
+            // Define your runtime caching configuration here
+        ]
+    }
+}
