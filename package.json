@@ -12,7 +12,7 @@
         "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
     },
     "engines": {
-        "node": "^14.18.1"
+        "node": "^20.0"
     },
     "dependencies": {
         "@emotion/cache": "latest",
